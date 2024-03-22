@@ -1,0 +1,1 @@
+Using conversion relationship to get to the point of conversion. If there is a possible path from a given unit to a target unit then conversion is possible. This code allows reverse conversions as well using reverse graphs.
